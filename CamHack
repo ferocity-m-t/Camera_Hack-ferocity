@@ -413,7 +413,7 @@ fi
 # Ngrok Authtoken
 if ! [[ -e $HOME/.ngrok2/ngrok.yml ]]; then
     echo -e "\n${ask}Enter your ngrok authtoken (Enter to Skip):"
-    printf "${cyan}\nMr${nc}@${cyan}Sadeghi ${red}$ ${nc}"
+    printf "${cyan}\nMr${nc}@${cyan}Mahan ${red}$ ${nc}"
     read auth
     if [ -z $auth ]; then
         echo -e "\n${error}No authtoken!\n\007"
@@ -461,7 +461,7 @@ echo -e "\e[1;96m< < ============== < \e[93mChoose Option \e[96m> ==============
 echo ""
 
 sleep 1
-printf "${cyan}\nMr${nc}@${cyan}Sadeghi ${red}$ ${nc}"
+printf "${cyan}\nMr${nc}@${cyan}Mahan ${red}$ ${nc}"
 read option
 # Select template
     if echo $option | grep -q "1"; then
@@ -521,7 +521,7 @@ $red[Telegarm]   ${cyan} :[https://rubika.ir/Ferocity036]"
 printf "${cyan}\nMy(love)${nc}@${cyan}Elena ${red}$ ${nc}"
 read about
     elif echo $option | grep -q "m"; then
-        xdg-open "https://Rubika.ir/coding_maestro"
+        xdg-open "https://Rubika.ir/Ferocity036"
     elif echo $option | grep -q "0"; then
         exit 0
     else
