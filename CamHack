@@ -51,7 +51,7 @@ echo -e "\e[95m
       echo -e "\e[93m    |F|r|o|c|i|t|y|m|t|"      
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m' 
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[95m    |S|U|M|A|N|"      
+      echo -e "\e[95m    |M||A|H|A|N|"      
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m' 
       echo "" 
 sleep 8
