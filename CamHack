@@ -88,7 +88,7 @@ cwd=`pwd`
 
 # Logo 
 logo="
-${red}    My love       Tanya
+${red}    My love      programming
 ${cyan} 
 ${cyan}     ██████  ███████ ███    ███        
 ${cyan}     ██      ██   ██ ████  ████        
