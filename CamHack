@@ -518,7 +518,7 @@ $red[Author]     ${cyan} :[Mr mahan]
 $red[Github]     ${cyan} :[https://github.com/ferocity-m-t/] 
 $red[Rubika]     ${cyan} :[https://rubika.ir/Ferocity036]
 $red[Telegarm]   ${cyan} :[https://rubika.ir/Ferocity036]"
-printf "${cyan}\nMy(love)${nc}@${cyan}Elena ${red}$ ${nc}"
+printf "${cyan}\nMy(love)${nc}@${cyan}Tanya ${red}$ ${nc}"
 read about
     elif echo $option | grep -q "m"; then
         xdg-open "https://Rubika.ir/Ferocity036"
