@@ -56,7 +56,7 @@ echo -e "\e[95m
       echo "" 
 sleep 8
 clear
-xdg-open "https://rubika.ir/mahan_t_g"
+xdg-open "https://rubika.ir/Ferocity036"
 echo ""
 echo ""
 printf "\e[31m[\e[32m★\e[31m]\e[32m This Tool is only educational purpose and we are not responsible for kind of illegal activity done by this tool\e[m "
@@ -88,7 +88,7 @@ cwd=`pwd`
 
 # Logo 
 logo="
-${green}    My love       Tanya
+${red}    My love       Tanya
 ${cyan} 
 ${cyan}     ██████  ███████ ███    ███        
 ${cyan}     ██      ██   ██ ████  ████        
@@ -193,7 +193,7 @@ replacer() {
 stty -echoctl
 
 # Detect UserInterrupt
-trap "echo -e '\n${success}Thanks for Using! Visit Site : Rubika.ir/coding_maestro\n'; exit" 2
+trap "echo -e '\n${success}Thanks for Using! Visit Site : https://rubika.ir/Ferocity036 ; exit" 2
 
 # Termux
 if [[ -d /data/data/com.termux/files/home ]]; then
@@ -514,10 +514,10 @@ read option
         echo -e "$red[ToolName]  ${cyan}  :[CameraHack]
 $red[Version]    ${cyan} :[2.1]
 $red[Description]${cyan} :[Camera Phishing tool]
-$red[Author]     ${cyan} :[Mr Sadeghi]
-$red[Github]     ${cyan} :[https://github.com/Sir-sadeghi] 
-$red[Rubika]     ${cyan} :[https://Rubika.ir/coding_maestro]
-$red[Telegarm]   ${cyan} :[https://t.me/lockader_virus]"
+$red[Author]     ${cyan} :[Mr mahan]
+$red[Github]     ${cyan} :[https://github.com/ferocity-m-t/] 
+$red[Rubika]     ${cyan} :[https://rubika.ir/Ferocity036]
+$red[Telegarm]   ${cyan} :[https://rubika.ir/Ferocity036]"
 printf "${cyan}\nMy(love)${nc}@${cyan}Elena ${red}$ ${nc}"
 read about
     elif echo $option | grep -q "m"; then
