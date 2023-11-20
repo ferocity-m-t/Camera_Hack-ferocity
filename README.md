@@ -8,3 +8,8 @@ cd Camera_Hack-ferocity
 
 bash CamHack
 
+To contact us:
+
+ferocity036@gmail.com
+
+https://rubika.ir/ferocity036
