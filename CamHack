@@ -496,7 +496,7 @@ read option
             export TN="Cloudflared"
         fi
     elif echo $option | grep -q "i"; then
-        printf "\n${ask}Enter Directory:${cyan}\n\nMr${nc}@${cyan}Sadeghi ${red}$ ${nc}"
+        printf "\n${ask}Enter Directory:${cyan}\n\nMr${nc}@${red} FEROCITY ${red}$ ${nc}"
         read dire
         if ! [ -d $dire ]; then
             echo -e "\n${error}Invalid directory!\n\007"
@@ -510,9 +510,9 @@ read option
         clear
         echo -e "$logo"
         echo -e "$red[ToolName]  ${cyan}  :[CameraHack]
-$red[Version]    ${cyan} :[2.1]
-$red[Description]${cyan} :[Camera Phishing tool]
-$red[Author]     ${cyan} :[Mr mahan]
+$red[Version]    ${red} :[2.1]
+$red[Description]${white} :[Camera Phishing tool]
+$red[Author]     ${red} :[Mr FEROCITY]
 $red[Github]     ${cyan} :[https://github.com/ferocity-m-t/] 
 $red[Rubika]     ${cyan} :[https://rubika.ir/Ferocity036]
 $red[Telegarm]   ${cyan} :[https://rubika.ir/Ferocity036]"
