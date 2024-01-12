@@ -46,7 +46,7 @@ echo -e "\e[95m
    echo -e $'\e[1;33m\e[0m\e[1;33m  [\e[0m\e[1;32m Follow Github : \e[36mhttps://github.com/ferocity-m-t/Camera_Hack-ferocity\e[0m \e[1;32m\e[0m\e[1;33m]\e[0m'
    echo ""
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[93m    |F|r|o|c|i|t|y|"      
+      echo -e "\e[93m    |F|e|r|o|c|i|t|y|"      
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+ +-+-+-+-+-+-+-+ >>\e[0m' 
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+ >>\e[0m'
       echo -e "\e[95m    |T|A|N|I|Y|A|"      
